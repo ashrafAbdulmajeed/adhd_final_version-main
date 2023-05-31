@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692863533504",
+    "project_id": "adhd-d9215",
+    "storage_bucket": "adhd-d9215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692863533504:android:c20b7c16ad9ceac1ab4825",
+        "android_client_info": {
+          "package_name": "com.example.adhd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692863533504-plnbghilmkevsc246cebron52fvo9aee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxnURsf42Sb9tEfV229eaSknsvpADOq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692863533504-plnbghilmkevsc246cebron52fvo9aee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
